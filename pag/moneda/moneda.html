@@ -1,0 +1,86 @@
+<!DOCTYPE >
+<HTML>
+<HEAD>
+    <style>
+
+        .imagen{
+            height: 40px;;
+                width: 40px;
+            text-align: center;
+            display: inline-block;
+            margin: 0%;
+            padding: 16px 25px 16px 25px;
+        }
+        .container {
+			width: 100%;
+			margin: 0;
+			text-align: center;
+		}
+
+		.dice {
+			text-align: center;
+			display: inline-block;
+			margin: 10px;
+		}
+
+		body {
+			background-color: #042f4b;
+			margin: 250px;
+		}
+
+		
+
+		
+
+		.bottom {
+			padding-top: 30px;
+		}
+
+		.butn {
+			background: #4ecca3;
+			font-family: "Indie Flower", cursive;
+			border-radius: 7px;
+			color: #ffff;
+			font-size: 30px;
+			padding: 16px 25px 16px 25px;
+			text-decoration: none;
+		}
+
+	
+        
+         </style>
+</HEAD>
+ 
+<BODY>
+    <div class="imagen">
+    <script>
+        var face0=new Image()
+        face0.src="cara1.png"
+        var face1=new Image()
+        face1.src="sol1.png"
+        
+    </script>
+    </div>
+
+ 
+    <img  src="" name="mydice">
+ 
+    <form>
+        <div class="container bottom">
+    <input type="button" value="Lanzar moneda" onClick="lanzar()">
+</div>
+    </form>
+
+
+
+ 
+    <script>
+    function lanzar()
+    {
+        var randomdice=Math.round(Math.random()*1);
+        document.images["mydice"].src=eval("face"+randomdice+".src");
+    }
+    </script>
+ 
+</BODY>
+</HTML>
