@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ivan Zuñiga</h1>
  <p align="center"><br/>
-   <a href="#">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
-  </a>
-  
-  <a href="https://www.instagram.com/ivann_z.v/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
-  </a>
-</p>
+   
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sachinchaturvedi93/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]()
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)]()
+
+	
 
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2024)</h3>
