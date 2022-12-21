@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ivan Zuñiga</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
+   <a href="#">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
   </a>
   
-  <a href="https://www.instagram.com/sachuverma_/">
+  <a href="https://www.instagram.com/ivann_z.v/">
     <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
   </a>
 </p>
@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning ... **Django and React.js**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **I like to play sports**
+- ⚡ Fun fact ... **I like to play sports** 
 - 📫 How to reach me **ivanperfec99@hotmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
@@ -55,9 +55,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=sachinverma53121&show_icons=true alt=sachinverma53121 /> 
-</p>
+
 
 <p align="center">
 <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
@@ -66,4 +64,3 @@
 <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
 </p>
 
-⭐️ From [Sachin Verma](https://github.com/sachinverma53121) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
