@@ -9,20 +9,20 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h3 align="center">A passionate fullstack developer from Mexico</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2024)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
+- 🔭 I’m currently studing on **Tecnologico De Morelia**
 - 🌱 I’m currently learning ... **Django and React.js**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- ⚡ Fun fact ... **I like to play sports**
+- 📫 How to reach me **ivanperfec99@hotmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
