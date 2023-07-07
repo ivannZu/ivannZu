@@ -9,7 +9,6 @@
 
 	
 
-<h3 align="center">A passionate fullstack developer from Mexico</h3>
 <h3 align="center">studying a Systems Engineering  (To be graduated in 2024)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
